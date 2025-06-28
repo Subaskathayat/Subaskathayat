@@ -65,6 +65,7 @@ My name is **Subas Kathayat**, I'm *20* years old and I'm a student of **Compute
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/subaskathayat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R61H6BW8)
 
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
