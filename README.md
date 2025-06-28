@@ -17,7 +17,7 @@ My name is **Subas Kathayat**, I'm *20* years old and I'm a student of **Compute
 
   </br>
 
-## 💻Programming Languages:
+## 💻 Programming Languages:
 <code><img height="25" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png"> C</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>
 #
