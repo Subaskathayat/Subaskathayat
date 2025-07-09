@@ -7,14 +7,14 @@
 My name is **Subas Kathayat**, I'm *20* years old and I'm a student of **Computer Science** at Quantum University of Technology in India. I am completely passionate about **App and Website development**, and also very interested in **Graphics Designing**.
 
 <br/>
-
+<!--
 - 🔭 I’m currently working on **AI Android App**
 - 🌱 I’m currently learning ... **MERN**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **HuiHuiHui**❤
 - 📫 How to reach me **skathayat40@gmail.com**
-
+-->
   </br>
 
 ## 💻 Programming Languages:
