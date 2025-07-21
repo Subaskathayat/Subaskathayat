@@ -44,6 +44,15 @@ I am passionate about **App and Website Development** and also very interested i
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git</code>
 
 #
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subaskathayat&layout=compact&theme=dark" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subaskathayat&show_icons=true&theme=dark" />
+</p>
+
+#
+
 <hr>
 <h3 align="left">✨ Random Dev Quote:</h3>
 <p align="center">
