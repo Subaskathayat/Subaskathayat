@@ -10,9 +10,10 @@ I'm passionate about **App & Website Development** and have a keen interest in *
 
 <p align="center">
   <a href="https://subaskathayat.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit%20Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website">
+    <img src="https://img.shields.io/badge/🌐_Visit%20Website-0078D7?style=for-the-badge&logoColor=white" alt="Visit Website">
   </a>
 </p>
+
 
 
 <!--
