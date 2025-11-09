@@ -78,7 +78,7 @@ Like My Work?
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subaskathayat&repo=portfolio-subas" />
   </a>
   <a href="https://github.com/Subaskathayat/pickup-lines-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subaskathayat&repo=pickup-lines-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Subaskathayat&repo=face_attendance_test" />
   </a>
 </p>
 
