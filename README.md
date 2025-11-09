@@ -1,4 +1,6 @@
 # I'm [Subas!](https://github.com/Subaskathayat/) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![Code](https://img.shields.io/badge/Code-Is%20Life-6CC644?style=for-the-badge)
+
 
 ### Glad to see you here!  
 <p align="left">
