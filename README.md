@@ -33,7 +33,7 @@ I'm passionate about **App & Website Development** and have a keen interest in *
 <p align="center">
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">Flutter</code>
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">VS Code</code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">VS Code</code>
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">Figma</code>
 </p>
 
