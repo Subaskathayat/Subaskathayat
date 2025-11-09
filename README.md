@@ -7,7 +7,7 @@
 </p>
 
 I'm **Subas Kathayat**, a *20-year-old* Computer Science student at **Quantum University of Technology, India**.  
-I'm passionate about **App & Website Development** and have a keen interest in **Graphics Designing**.
+I'm passionate about **App & Website Development** and have a keen interest in **UI/UX Designing**.
 
 <p align="center">
   <a href="https://subaskathayat.com.np/" target="_blank">
