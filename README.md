@@ -1,8 +1,4 @@
 # I'm [Subas!](https://github.com/Subaskathayat/) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![Gradient Badge](https://img.shields.io/badge/✨_Coding%20is%20Life-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-![Neon Badge](https://img.shields.io/badge/🌟_Awesome-Neon?style=for-the-badge&color=ff00ff&logo=github&logoColor=white)
-![Visit Website](https://img.shields.io/badge/🌐_Visit%20Website-animated-blue?style=for-the-badge)
-![Coding GIF](https://media.giphy.com/media/3o7aD4yZbfiQY6w2/giphy.gif)
 
 
 ### Glad to see you here!  
