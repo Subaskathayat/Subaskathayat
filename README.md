@@ -21,21 +21,22 @@ I'm passionate about **App & Website Development** and have a keen interest in *
 
 ## 💻 Programming Languages:
 <p align="center">
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">C</code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">C++</code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">Java</code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</code>
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">Dart</code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">JavaScript</code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</code>
 </p>
 
 ---
 
 ## 🛠️ Tools I Use:
 <p align="center">
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">VS Code</code>
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">Flutter</code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">Git</code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">VS Code</code>
   <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">Figma</code>
 </p>
+
 
 ---
 
