@@ -8,6 +8,13 @@
 I'm **Subas Kathayat**, a *20-year-old* Computer Science student at **Quantum University of Technology, India**.  
 I'm passionate about **App & Website Development** and have a keen interest in **Graphics Designing**.
 
+<p align="center">
+  <a href="https://subaskathayat.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit%20Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website">
+  </a>
+</p>
+
+
 <!--
 - 🔭 Currently working on **AI Android App**
 - 🌱 Currently learning **MERN Stack**
